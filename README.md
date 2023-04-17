@@ -15,4 +15,4 @@
 ### (4).	最後設定當使用者按下q鍵結束執行程式時，透過request函數回傳欲辨識物的名稱及攝影機畫面的截圖回傳至指定權杖碼之Line裝置上。
 
 ## 程式碼連結:https://gist.github.com/977b5a27016c1acaf839764f3948c11b.git
-## 影片連結: https://youtu.be/mNlXbIYOChI
+## 成果影片: https://youtu.be/mNlXbIYOChI
